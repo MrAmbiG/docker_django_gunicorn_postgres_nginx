@@ -1,0 +1,8 @@
+resources.yml
+__pycache__
+__pycache__/
+__pycache__/*
+venv_*
+venv_docker
+venv_docker1
+*pptx
