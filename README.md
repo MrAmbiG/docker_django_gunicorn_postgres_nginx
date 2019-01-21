@@ -1,6 +1,12 @@
 # docker_django_gunicorn_postgres_nginx
 Dockerizing a Django+Gunicorn, PostgreSQL, NginX.
 
+# Boot time
+3 seconds
+
+# build time
+15 seconds
+
 # 3Tier
 ##### Two tier django app
 This will deploy 2 containers.
