@@ -40,3 +40,6 @@ Nginx - nginx:1.15.0-alpine (official)
  - clone this repository
  - cd into django_gunicorn_db_nginx where the compose file is located.  
  - docker-compose up -d --build
+
+# repository
+https://github.com/MrAmbiG/docker_django_gunicorn_postgres_nginx.git
